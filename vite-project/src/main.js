@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8dbc2ddfeb2d6d5c37c51bc4d556de289c6029de
 class DataItem {
   constructor(id, name, category) {
     this.id = id;
