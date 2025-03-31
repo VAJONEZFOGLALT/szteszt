@@ -51,7 +51,6 @@ form.addEventListener('submit', function(event) {
     dataManager.addData(name, category);
     dataManager.renderTable();
     form.reset();
-  } else {
-    alert('Minden mezőt ki kell tölteni!');
+;
   }
 });
